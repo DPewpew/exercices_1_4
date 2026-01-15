@@ -1,0 +1,20 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #c32e33;
+background-image: url('https://odyssey.wildcodeschool.com/logos/wcs/white-square.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 50% 70%;
+background-position: center;
+}
